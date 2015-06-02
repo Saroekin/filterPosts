@@ -1,2 +1,2 @@
 # filterPosts
-**STATUS: IN DEVELOPMENT**
+***STATUS: IN DEVELOPMENT***
